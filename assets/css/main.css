@@ -1671,3 +1671,12 @@ input, select, textarea {
 	background-color: #3e484f;
 	padding: 2%;
 }
+
+/*pixel-art table*/
+.col-container {
+	display: table;
+	width: 100%;
+  }
+  .col {
+	display: table-cell;
+  }
